@@ -1,0 +1,25 @@
+[
+    {
+      "firstName": "Test",
+      "lastName": "Data 01",
+      "contactNumber": "0123456789",
+      "email": "testdata01@gmail.com",
+      "username": "testdata01",
+      "password": "01testdata",
+      "hourlyRate": "2",
+      "basicSalary": "1000",
+      "expected": true
+    },
+    {
+      "firstName": "Test",
+      "lastName": "Data 02",
+      "contactNumber": "01244456789",
+      "email": "testdata02@gmail.com",
+      "username": "testdata02",
+      "password": "02testdata",
+      "hourlyRate": "2.5",
+      "basicSalary": "2000",
+      "expected": true
+    }
+  ]
+
